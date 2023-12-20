@@ -27,7 +27,8 @@ cd MAML-PyTorch
 ```shell
 mkdir data
 cd data
-
+wget https://github.com/Yifei20/MAML-PyTorch/releases/download/dataset/Omniglot.zip
+unzip Omniglot.zip
 ```
 
 3. Run the code directly in the notebook, you can adjust the hyperparameter if you want.
