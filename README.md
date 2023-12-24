@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is a simple MAML implementation based on original paper and previous open-source implementations (listed below).  This can be used as a reference for MAML beginners, which is well annotated and easy to fine-tune.
+This is a simple MAML implementation based on original paper and previous open-source implementations (listed in the references).  This can be used as a reference for MAML beginners, which is well annotated and easy to fine-tune.
 
 ## Running Results
 
